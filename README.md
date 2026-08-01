@@ -2,6 +2,8 @@
 
 A simple, styled To-Do List application built with React (functional components + hooks) and Vite.
 
+GitHub repository: https://github.com/AswathyBalan/to-do-app
+
 ## Features
 
 - Add new tasks
@@ -29,7 +31,7 @@ A simple, styled To-Do List application built with React (functional components 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AswathyBalan/to-do-app.git
    cd todo-app
    ```
 
